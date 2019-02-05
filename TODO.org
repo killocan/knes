@@ -1,0 +1,1 @@
+* TODO Load .nes file to memory.
